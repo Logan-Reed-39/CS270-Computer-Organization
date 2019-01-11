@@ -1,0 +1,8 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	Result            3001
+//	Main              3003
+//	Counter           3002
+//	Loop              3004
